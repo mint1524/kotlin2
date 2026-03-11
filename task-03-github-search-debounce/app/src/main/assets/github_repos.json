@@ -1,0 +1,302 @@
+[
+  {
+    "name": "sample-repo-1",
+    "description": "Demo repository number 1 for local GitHub-like search.",
+    "language": "Java"
+  },
+  {
+    "name": "sample-repo-2",
+    "description": "Demo repository number 2 for local GitHub-like search.",
+    "language": "Python"
+  },
+  {
+    "name": "sample-repo-3",
+    "description": "Demo repository number 3 for local GitHub-like search.",
+    "language": "Go"
+  },
+  {
+    "name": "sample-repo-4",
+    "description": "Demo repository number 4 for local GitHub-like search.",
+    "language": "TypeScript"
+  },
+  {
+    "name": "sample-repo-5",
+    "description": "Demo repository number 5 for local GitHub-like search.",
+    "language": "Rust"
+  },
+  {
+    "name": "sample-repo-6",
+    "description": "Demo repository number 6 for local GitHub-like search.",
+    "language": "Kotlin"
+  },
+  {
+    "name": "sample-repo-7",
+    "description": "Demo repository number 7 for local GitHub-like search.",
+    "language": "Java"
+  },
+  {
+    "name": "sample-repo-8",
+    "description": "Demo repository number 8 for local GitHub-like search.",
+    "language": "Python"
+  },
+  {
+    "name": "sample-repo-9",
+    "description": "Demo repository number 9 for local GitHub-like search.",
+    "language": "Go"
+  },
+  {
+    "name": "sample-repo-10",
+    "description": "Demo repository number 10 for local GitHub-like search.",
+    "language": "TypeScript"
+  },
+  {
+    "name": "sample-repo-11",
+    "description": "Demo repository number 11 for local GitHub-like search.",
+    "language": "Rust"
+  },
+  {
+    "name": "sample-repo-12",
+    "description": "Demo repository number 12 for local GitHub-like search.",
+    "language": "Kotlin"
+  },
+  {
+    "name": "sample-repo-13",
+    "description": "Demo repository number 13 for local GitHub-like search.",
+    "language": "Java"
+  },
+  {
+    "name": "sample-repo-14",
+    "description": "Demo repository number 14 for local GitHub-like search.",
+    "language": "Python"
+  },
+  {
+    "name": "sample-repo-15",
+    "description": "Demo repository number 15 for local GitHub-like search.",
+    "language": "Go"
+  },
+  {
+    "name": "sample-repo-16",
+    "description": "Demo repository number 16 for local GitHub-like search.",
+    "language": "TypeScript"
+  },
+  {
+    "name": "sample-repo-17",
+    "description": "Demo repository number 17 for local GitHub-like search.",
+    "language": "Rust"
+  },
+  {
+    "name": "sample-repo-18",
+    "description": "Demo repository number 18 for local GitHub-like search.",
+    "language": "Kotlin"
+  },
+  {
+    "name": "sample-repo-19",
+    "description": "Demo repository number 19 for local GitHub-like search.",
+    "language": "Java"
+  },
+  {
+    "name": "sample-repo-20",
+    "description": "Demo repository number 20 for local GitHub-like search.",
+    "language": "Python"
+  },
+  {
+    "name": "sample-repo-21",
+    "description": "Demo repository number 21 for local GitHub-like search.",
+    "language": "Go"
+  },
+  {
+    "name": "sample-repo-22",
+    "description": "Demo repository number 22 for local GitHub-like search.",
+    "language": "TypeScript"
+  },
+  {
+    "name": "sample-repo-23",
+    "description": "Demo repository number 23 for local GitHub-like search.",
+    "language": "Rust"
+  },
+  {
+    "name": "sample-repo-24",
+    "description": "Demo repository number 24 for local GitHub-like search.",
+    "language": "Kotlin"
+  },
+  {
+    "name": "sample-repo-25",
+    "description": "Demo repository number 25 for local GitHub-like search.",
+    "language": "Java"
+  },
+  {
+    "name": "sample-repo-26",
+    "description": "Demo repository number 26 for local GitHub-like search.",
+    "language": "Python"
+  },
+  {
+    "name": "sample-repo-27",
+    "description": "Demo repository number 27 for local GitHub-like search.",
+    "language": "Go"
+  },
+  {
+    "name": "sample-repo-28",
+    "description": "Demo repository number 28 for local GitHub-like search.",
+    "language": "TypeScript"
+  },
+  {
+    "name": "sample-repo-29",
+    "description": "Demo repository number 29 for local GitHub-like search.",
+    "language": "Rust"
+  },
+  {
+    "name": "sample-repo-30",
+    "description": "Demo repository number 30 for local GitHub-like search.",
+    "language": "Kotlin"
+  },
+  {
+    "name": "sample-repo-31",
+    "description": "Demo repository number 31 for local GitHub-like search.",
+    "language": "Java"
+  },
+  {
+    "name": "sample-repo-32",
+    "description": "Demo repository number 32 for local GitHub-like search.",
+    "language": "Python"
+  },
+  {
+    "name": "sample-repo-33",
+    "description": "Demo repository number 33 for local GitHub-like search.",
+    "language": "Go"
+  },
+  {
+    "name": "sample-repo-34",
+    "description": "Demo repository number 34 for local GitHub-like search.",
+    "language": "TypeScript"
+  },
+  {
+    "name": "sample-repo-35",
+    "description": "Demo repository number 35 for local GitHub-like search.",
+    "language": "Rust"
+  },
+  {
+    "name": "sample-repo-36",
+    "description": "Demo repository number 36 for local GitHub-like search.",
+    "language": "Kotlin"
+  },
+  {
+    "name": "sample-repo-37",
+    "description": "Demo repository number 37 for local GitHub-like search.",
+    "language": "Java"
+  },
+  {
+    "name": "sample-repo-38",
+    "description": "Demo repository number 38 for local GitHub-like search.",
+    "language": "Python"
+  },
+  {
+    "name": "sample-repo-39",
+    "description": "Demo repository number 39 for local GitHub-like search.",
+    "language": "Go"
+  },
+  {
+    "name": "sample-repo-40",
+    "description": "Demo repository number 40 for local GitHub-like search.",
+    "language": "TypeScript"
+  },
+  {
+    "name": "sample-repo-41",
+    "description": "Demo repository number 41 for local GitHub-like search.",
+    "language": "Rust"
+  },
+  {
+    "name": "sample-repo-42",
+    "description": "Demo repository number 42 for local GitHub-like search.",
+    "language": "Kotlin"
+  },
+  {
+    "name": "sample-repo-43",
+    "description": "Demo repository number 43 for local GitHub-like search.",
+    "language": "Java"
+  },
+  {
+    "name": "sample-repo-44",
+    "description": "Demo repository number 44 for local GitHub-like search.",
+    "language": "Python"
+  },
+  {
+    "name": "sample-repo-45",
+    "description": "Demo repository number 45 for local GitHub-like search.",
+    "language": "Go"
+  },
+  {
+    "name": "sample-repo-46",
+    "description": "Demo repository number 46 for local GitHub-like search.",
+    "language": "TypeScript"
+  },
+  {
+    "name": "sample-repo-47",
+    "description": "Demo repository number 47 for local GitHub-like search.",
+    "language": "Rust"
+  },
+  {
+    "name": "sample-repo-48",
+    "description": "Demo repository number 48 for local GitHub-like search.",
+    "language": "Kotlin"
+  },
+  {
+    "name": "sample-repo-49",
+    "description": "Demo repository number 49 for local GitHub-like search.",
+    "language": "Java"
+  },
+  {
+    "name": "sample-repo-50",
+    "description": "Demo repository number 50 for local GitHub-like search.",
+    "language": "Python"
+  },
+  {
+    "name": "sample-repo-51",
+    "description": "Demo repository number 51 for local GitHub-like search.",
+    "language": "Go"
+  },
+  {
+    "name": "sample-repo-52",
+    "description": "Demo repository number 52 for local GitHub-like search.",
+    "language": "TypeScript"
+  },
+  {
+    "name": "sample-repo-53",
+    "description": "Demo repository number 53 for local GitHub-like search.",
+    "language": "Rust"
+  },
+  {
+    "name": "sample-repo-54",
+    "description": "Demo repository number 54 for local GitHub-like search.",
+    "language": "Kotlin"
+  },
+  {
+    "name": "sample-repo-55",
+    "description": "Demo repository number 55 for local GitHub-like search.",
+    "language": "Java"
+  },
+  {
+    "name": "sample-repo-56",
+    "description": "Demo repository number 56 for local GitHub-like search.",
+    "language": "Python"
+  },
+  {
+    "name": "sample-repo-57",
+    "description": "Demo repository number 57 for local GitHub-like search.",
+    "language": "Go"
+  },
+  {
+    "name": "sample-repo-58",
+    "description": "Demo repository number 58 for local GitHub-like search.",
+    "language": "TypeScript"
+  },
+  {
+    "name": "sample-repo-59",
+    "description": "Demo repository number 59 for local GitHub-like search.",
+    "language": "Rust"
+  },
+  {
+    "name": "sample-repo-60",
+    "description": "Demo repository number 60 for local GitHub-like search.",
+    "language": "Kotlin"
+  }
+]

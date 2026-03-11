@@ -1,0 +1,10 @@
+[
+  {"id": 1, "author": "Anna", "text": "Morning run complete"},
+  {"id": 2, "author": "Ilya", "text": "Coffee and code"},
+  {"id": 3, "author": "Dasha", "text": "Sunset is amazing"},
+  {"id": 4, "author": "Max", "text": "Shipping feature today"},
+  {"id": 5, "author": "Nina", "text": "Reading a new Kotlin book"},
+  {"id": 6, "author": "Oleg", "text": "Weekend hiking plans"},
+  {"id": 7, "author": "Pavel", "text": "Compose is fun"},
+  {"id": 8, "author": "Lena", "text": "Trying new recipes"}
+]

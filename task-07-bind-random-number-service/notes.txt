@@ -1,0 +1,1 @@
+Для проверки утечек используйте Android Studio Profiler при многократном connect/disconnect.

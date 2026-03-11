@@ -1,0 +1,1 @@
+Для эмулятора задайте координаты вручную: Extended controls -> Location.

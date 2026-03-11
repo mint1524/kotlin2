@@ -1,0 +1,10 @@
+[
+  {"postId": 1, "comment1": "Great job!", "comment2": "Keep going"},
+  {"postId": 2, "comment1": "Same here", "comment2": "Need more coffee"},
+  {"postId": 3, "comment1": "Nice shot", "comment2": "Beautiful colors"},
+  {"postId": 4, "comment1": "Good luck", "comment2": "Waiting for release"},
+  {"postId": 5, "comment1": "Which one?", "comment2": "Sounds useful"},
+  {"postId": 6, "comment1": "Take me too", "comment2": "Mountains?"},
+  {"postId": 7, "comment1": "Agree", "comment2": "Compose > XML"},
+  {"postId": 8, "comment1": "Yummy", "comment2": "Share recipe"}
+]
